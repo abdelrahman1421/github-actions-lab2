@@ -1,4 +1,4 @@
-name: Hello World
+name:  Installing Python
 on: [push]
 jobs:
   build:
